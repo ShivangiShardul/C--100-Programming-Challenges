@@ -1,0 +1,2 @@
+This file is data.txt
+This msg was written by program
